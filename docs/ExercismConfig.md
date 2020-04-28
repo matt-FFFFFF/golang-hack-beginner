@@ -1,0 +1,1 @@
+Will outline Exercism setup?

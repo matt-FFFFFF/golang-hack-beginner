@@ -21,15 +21,15 @@ We have outlined some tools/software that you will need to complete the challeng
 
 ## Pre-requisites
 
+You will need to setup your machine for the hack, so let's get your environment set up
 
-1. Golang tour
-2. setup machine
-
-First things first, let's get your environment set up.
-
-### Online Accounts
+### GitHub
 
 You will need a GitHub account for this, please ensure you have one. One member of your team will fork the repo and invite the others as collaborators.
+
+## Exercism
+
+If you want to complete the learning challenges please follow here*****
 
 ### Software Installation
 
@@ -45,7 +45,9 @@ Accept the defaults unless mentioned.
 5. [Docker for Windows](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
 6. [Windows Terminal](ms-windows-store://pdp?productId=9N0DX20HK701) (recommended)
 
-## Set-Up Visual Studio Code
+## Setting-Up Visual Studio Code
+
+
 
 Open VS Code, then press ```CTRL+SHIFT+X``` to view the extensions.
 Search for and install the following extensions.
@@ -61,7 +63,11 @@ Repeat this process and install:
 * ```ms-azuretools.vscode-docker```
 * ```ms-vsliveshare.vsliveshare```
 
+### DevContainers
 
+VS Code can run Dev Containers, read about it here **LINK**
+
+Add details***
 
 
 # Getting Started in Your Team
