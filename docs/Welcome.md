@@ -6,13 +6,7 @@ This hack was devised from an idea from April Edwards and Matt White.  We were b
 
 This hack was designed to run over 2 days.  The aim is to provide learning materials, a learning path and a sense of community with your team (and the wider community).  Your teams have been divided up by skill set.
 
-Skill levels:
- Level Zero: n00b, never coded with Golang but are super eager to learn
- Level 100: have dabbled in Golang, maybe 'Hello World' or something simple
- Level 200: Some coding in Golang, looking for your next learning challenge or a real-life example
- Level 300 - 400: Very experienced, or expert level. Still hoping to learn a bit more.
 
-We asked each person to register and provide their approximate skill set. Thus, we have created a sort of 'create your own adventure' style of learning.  From  your teams you will be with like leveled individuals so that hopefully everyone is at a similar starting point in their learning journey.  It is suggested that you work together as a team, whether it be as a whole team, pair programming or asynchronously.  It is entirely up to your team.  It is important to setup some form of repo for the team and a Microsoft Teams site to communicate (unless one has already been provided).
 
 
 
@@ -22,9 +16,12 @@ Before the start of the hack, it is highly recommended to review the pre-req's b
 
 We ask that everyone participating in the hack to have completed the Golang tour: https://tour.golang.org/welcome/1]
 
+We have outlined some tools/software that you will need to complete the challenges.
 
 
 ## Pre-requisites
+
+
 1. Golang tour
 2. setup machine
 
@@ -68,6 +65,14 @@ Repeat this process and install:
 
 
 # Getting Started in Your Team
+
+Skill levels:
+ Level Zero: n00b, never coded with Golang but are super eager to learn
+ Level 100: have dabbled in Golang, maybe 'Hello World' or something simple
+ Level 200: Some coding in Golang, looking for your next learning challenge or a real-life example
+ Level 300 - 400: Very experienced, or expert level. Still hoping to learn a bit more.
+
+We asked each person to register and provide their approximate skill set. Thus, we have created a sort of 'create your own adventure' style of learning.  From  your teams you will be with like leveled individuals so that hopefully everyone is at a similar starting point in their learning journey.  It is suggested that you work together as a team, whether it be as a whole team, pair programming or asynchronously.  It is entirely up to your team.  It is important to setup some form of repo for the team and a Microsoft Teams site to communicate (unless one has already been provided).
 
 Once in your team, discuss which path of the hack you would like to explore as a group.  We have outlined some suggestions to help you understand what each path entails:
 
