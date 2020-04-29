@@ -80,12 +80,12 @@ You will need to setup your machine ready to code Go. The following directions a
 
    d) After setting your environment variable, you will need to create your Go workspace.  This will be a separate folder to where your Go install files are saved. Your Go install files were saved under 'C:\Go', your new workspace you should be in 'C:\Users\%USERNAME%\Go'  You can browse to that folder and see 3 other folders: bin, code, src (If you do not see those folders, you will need to create them).  Your directory structure should look like this:
 
-     └── %Username%
+     └─ %Username%
 
          └── go
 
             ├── bin
-            
+
             └── src
   
 6. Create the GOPATH Environment Variable and reference your newly created Go workspace.  Navigate back to your Control Panel>System>Environment Variables>System Variables  - Select 'New'
