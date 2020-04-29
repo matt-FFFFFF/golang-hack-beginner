@@ -80,10 +80,10 @@ You will need to setup your machine ready to code Go. The following directions a
 
    d) After setting your environment variable, you will need to create your Go workspace.  This will be a separate folder to where your Go install files are saved. Your Go install files were saved under 'C:\Go', your new workspace you should be in 'C:\Users\%USERNAME%\Go'  You can browse to that folder and see 3 other folders: bin, code, src (If you do not see those folders, you will need to create them).  Your directory structure should look like this:
 
-      └── %Username%
+      '└── %Username%
          └── go
             ├── bin
-            └── src
+            └── src'
 
 6. Create the GOPATH Environment Variable and reference your newly created Go workspace.  Navigate back to your Control Panel>System>Environment Variables>System Variables  - Select 'New'
 
@@ -130,7 +130,7 @@ Suggested path per skill level:
 
    *Next phase:* once your team has completed the review of the Go Tour, we highly recommend going through the next level of exercises, learning loops and arrays, we called this 'Ground Zero'.  We have setup 2 tasks using Exercism, it is highly recommended you start with those learning modules before moving onto the core of the hack, the Book API Challenge. The link to get started on 'Ground Zero' will be found at the bottom of this document.
 
-   Suggested Path:  [Golang tour]-->[Ground Zero] --> [Book API Challenge]
+   Suggested Path:  Golang tour --> Ground Zero --> Book API Challenge
 
 **Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API (Challenge 1).  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge
 
