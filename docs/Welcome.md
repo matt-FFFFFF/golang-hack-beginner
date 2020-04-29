@@ -11,7 +11,7 @@ This hack was designed to run over 2 days.  The aim is to provide learning mater
 
 Before the start of the hack, it is highly recommended to review the pre-req's below.  Please make sure you have your machine setup before the hack begins.
 
-We ask that everyone participating in the hack to have completed the Golang tour: https://tour.golang.org/welcome/1]
+We ask that everyone participating in the hack to have completed the [Golang tour:](https://tour.golang.org/welcome/1)
 
 We have outlined some tools/software that you will need to complete the challenges.
 
@@ -26,7 +26,7 @@ You will need a GitHub account for this, please ensure you have one. One member 
 
 ### Exercism
 
-The learning modules that we have set up will use Exercism, it is recommended for the Level zero and Level 100 teams to complete these (not compulsory, but highly recommended).  You can sign up for an Exercism account before the hack starts: https://exercism.io/
+The learning modules that we have set up will use Exercism, it is recommended for the Level zero and Level 100 teams to complete these (not compulsory, but highly recommended).  You can sign up for an Exercism account before the hack starts:[Exercism](https://exercism.io/)
 
 ## Setting up your machine
 
@@ -104,8 +104,6 @@ Download and install [Docker for Windows](https://download.docker.com/win/stable
 
 While not required, it is recommended [Windows Terminal](ms-windows-store://pdp?productId=9N0DX20HK701) 
 
-
-
 ### Optional Configurations
 
 VS Code can run Dev Containers, read about it here **LINK**
@@ -130,7 +128,9 @@ Suggested path per skill level:
 
  **Level Zero - 100:** Day 1, it is worth reviewing the Go tour with your team and make sure everyone is comfortable with the concepts. This is a great time to review with the team the topics learned and make sure there aren't any questions.  
 
-   *Next phase:* once your team has completed the review of the Go Tour, we highly recommend going through the next level of exercises, learning loops and arrays.  We have setup 2 tasks using Exercism, it is highly recommended you start with those learning modules before moving onto the Book API Challenge.
+   *Next phase:* once your team has completed the review of the Go Tour, we highly recommend going through the next level of exercises, learning loops and arrays, we called this 'Ground Zero'.  We have setup 2 tasks using Exercism, it is highly recommended you start with those learning modules before moving onto the core of the hack, the Book API Challenge. The link to get started on 'Ground Zero' will be found at the bottom of this document.
+
+   Suggested Path:  [Golang tour]-->[Ground Zero] --> [Book API Challenge]
 
 **Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API (Challenge 1).  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge
 
