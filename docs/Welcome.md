@@ -79,7 +79,7 @@ You will need to setup your machine ready to code Go. The following directions a
    c) Ensure 'Path' under System Variables has the "C:\Go\bin" variable in it
 
    d) After setting your environment variable, you will need to create your Go workspace.  This will be a separate folder to where your Go install files are saved. Your Go install files were saved under 'C:\Go', your new workspace you should be in 'C:\Users\%USERNAME%\Go'  You can browse to that folder and see 3 other folders: bin, code, src (If you do not see those folders, you will need to create them).  Your directory structure should look like this:
-  '''
+  '''bash
 
      └── %Username%
          └── go
@@ -133,25 +133,25 @@ Suggested path per skill level:
 
    Suggested Path:  Golang tour --> Ground Zero --> Book API Challenge
 
-**Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API (Challenge 1).  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge
+**Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API (Challenge 1).  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge. Links for both are located at the bottom of this document.
 
-**Level 300 - 400:** There is an assumption that you're very familiar with the concepts in the Go tour.  You will go straight to your Auzre Auto Tag Challenge written by Gabriel Nepomuceno. You may also choose to complete the Book API path as a warmup before proceeding to the main challenge, it is comprised of 4 challenges
+   Suggested Path:  Ground Zero (optional) --> Book API Challenge
+
+**Level 300 - 400:** There is an assumption that you're very familiar with the concepts in the Go tour.  You will go straight to your Auzre Auto Tag Challenge written by Gabriel Nepomuceno. You may also choose to complete the Book API path as a warmup before proceeding to the main challenge, it is comprised of 4 challenges.  The link to the hack challenge is located at the bottom.
+
+   Suggested Path:  Book API Challenge (optional) --> Azure Auto Tag Challenge
 
 # Let's Get Hacking
 
 We have outlined the setup and now it's time to get hacking.
 
-This is where your team will need to decide which challenge to start with we have created a 'choose your own adventure' model.  We have suggested where we think each team would benefit from most. Pick your path:
+This is where your team will need to decide which challenge to start with we have created a 'choose your own adventure' model.  We have suggested where we think each team would benefit from most. Pick your path, all the links are included below:
 
-      First Header       |    Second Header
-  -----------------------|-------------------------
-  GoLang Tour (review)| https://tour.golang.org/
-  Content Cell        | Content Cell
+   
+ [Golang Tour](https://tour.golang.org/) 
 
+ Level Zero and 100 - Starting with Exercism -[ground zero](GroundZero.md)
 
+ Start the API Challenge - [hello world](helloworld.md)
 
-
-
-You now have a choice. You can start with a couple of warm up exercises in [ground zero](GroundZero.md)...
-
-Or, you can get start the hack with [hello world](helloworld.md)
+ Start the advanced challenge - [Azure Auto Tag Challenge](https://github.com/Nepomuceno/learn-go-azure)
