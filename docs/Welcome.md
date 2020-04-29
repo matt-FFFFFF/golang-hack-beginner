@@ -119,8 +119,11 @@ We asked each person to register and provide their approximate skill set. Thus, 
 We have defined the skill levels based on the tasks that we have setup:
 
  *Level Zero*: n00b, never coded with Golang but are super eager to learn
+
  *Level 100*: have dabbled in Golang, maybe 'Hello World' or something simple
+
  *Level 200*: Some coding in Golang, looking for your next learning challenge or a real-life example
+
  *Level 300 - 400*: Very experienced, or expert level. Still hoping to learn a bit more.
 
 Once in your team, discuss which path of the hack you would like to explore as a group.  We have outlined some suggestions to help you understand what each path entails:
@@ -131,15 +134,15 @@ Suggested path per skill level:
 
    *Next phase:* once your team has completed the review of the Go Tour, we highly recommend going through the next level of exercises, learning loops and arrays, we called this 'Ground Zero'.  We have setup 2 tasks using Exercism, it is highly recommended you start with those learning modules before moving onto the core of the hack, the Book API Challenge. The link to get started on 'Ground Zero' will be found at the bottom of this document.
 
-   Suggested Path:  Golang tour --> Ground Zero --> Book API Challenge
+   *Suggested Path:  Golang tour --> Ground Zero --> Book API Challenge*
 
 **Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API (Challenge 1).  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge. Links for both are located at the bottom of this document.
 
-   Suggested Path:  Ground Zero (optional) --> Book API Challenge
+   *Suggested Path:  Ground Zero (optional) --> Book API Challenge*
 
 **Level 300 - 400:** There is an assumption that you're very familiar with the concepts in the Go tour.  You will go straight to your Auzre Auto Tag Challenge written by Gabriel Nepomuceno. You may also choose to complete the Book API path as a warmup before proceeding to the main challenge, it is comprised of 4 challenges.  The link to the hack challenge is located at the bottom.
 
-   Suggested Path:  Book API Challenge (optional) --> Azure Auto Tag Challenge
+   *Suggested Path:  Book API Challenge (optional) --> Azure Auto Tag Challenge*
 
 # Let's Get Hacking
 
