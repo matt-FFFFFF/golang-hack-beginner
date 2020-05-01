@@ -5,15 +5,23 @@ Welcome to the Golang hack!  This is the beginner's track.  We hope that everyon
 We have asked everyone to complete the go tour before starting the first challenge.  If you have yet to finish the Tour of Go, don't fret you can complete it here:  <https://tour.golang.org/welcome/1>
 More importantly if you're comfortable with the concepts then you're ready to proceed.
 
-For n00bs, we have 2 learning tasks that you can complete on day 1 of the hack.  We've chosen some fun tasks to help you learn.  You can complete this as a team or paired up with someone to a similar skill set.  This hack is all about learning and community, so get hacking!
+When we setup this hack we fond lots of people could get to 'hello world!' then were not sure where to go.  So we've setup 2 exercises that you will allow you to learn some fundamentals before Challenge 1 (What you learn in these learning modules are not required, but cover off some learning that we think will benefit you in the long term).  These modules are NOT mandatory, if you feel your team understands the concepts outline below, please review each module and confirm with a coach that you're comfortable with the skills to move onto the Book API Challenge (link at bottom of page).
 
-For the next two exercises you will need to create an Exercism account: <https://exercism.io/>. Please also follow the CLI setup guide here: <https://exercism.io/cli-walkthrough>
+For n00bs and level 100s, we have 2 learning tasks that you can complete on day 1 of the hack.  We've chosen some fun tasks to help you practice Go.  You can complete this as a team or paired up with someone to a similar skill set.  This hack is all about learning and community, so get hacking!
 
-When we setup this hack we fond lots of people could get to 'hello world!' then were not sure where to go.  So we've setup 2 exercises that you will allow you to learn some fundamentals before Challenge 1 (What you learn in these learning modules are not required, but cover off some learning that we think will benefit you in the long term).  These modules are NOT mandatory, if you feel your team understands the concepts outline below, please review each module and confirm with a coach that you're comfortable with the skills to move onto Challenge 1
+For the next two exercises you will need to create an Exercism account: <https://exercism.io/>.  Once you have created your account and are ready to get started.  You will need to join the Golang Hack team.  By joining the team, the coaches can check your answers. Join the team with the provided URL (Ask your coach if they have not supplied it).
+
+Once you have the team link, move onto the first learning module.
 
 ## Learning Module 1: Scrabble Score - Learning Loops
 
 Learning loops is a key skill with learning almost any programming language.  The exercise that we have chosen covers off loops, strings and maps.  If you are comfortable with how loops work, you can skip to learning module 2.
+
+1. Open your web browser and go to the team link provided. You will be sent to the Golang Hack team page.
+
+2. Select 'Your Solutions' at the top.  Brown the tracks and select 'Go'.  Browse to Exercise and select 'Scrabble Score' 
+
+exercism download --exercise=scrabble-score --track=go --team=golang-hack-date
 
 1. Once you're logged into Exercism, go to 'Scrabble Score' in the Go track: <https://exercism.io/my/tracks/go#exercise-scrabble-score>
 

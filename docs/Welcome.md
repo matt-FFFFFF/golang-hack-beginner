@@ -11,7 +11,7 @@ This hack was designed to run over 2 days.  The aim is to provide learning mater
 
 Before the start of the hack, it is highly recommended to review the pre-req's below.  Please make sure you have your machine setup before the hack begins.
 
-We ask that everyone participating in the hack to have completed the [Golang tour:](https://tour.golang.org/welcome/1)
+We ask that everyone participating in the hack to have completed the [Golang tour:](https://tour.golang.org/welcome/1)   It is highly recommended that you complete the exercises in the tour to better understand the concepts as you will be using them in the hack.
 
 We have outlined some tools/software that you will need to complete the challenges.
 
@@ -80,14 +80,14 @@ You will need to setup your machine ready to code Go. The following directions a
 
    d) After setting your environment variable, you will need to create your Go workspace.  This will be a separate folder to where your Go install files are saved. Your Go install files were saved under 'C:\Go', your new workspace you should be in 'C:\Users\%USERNAME%\Go'  You can browse to that folder and see 3 other folders: bin, code, src (If you do not see those folders, you will need to create them).  Your directory structure should look like this:
 
-     └─ %Username%
-
+```
+      └─ %Username%
          └── go
-
             ├── bin
+            ├── src
+            └── pkg
+```
 
-            └── src
-  
 6. Create the GOPATH Environment Variable and reference your newly created Go workspace.  Navigate back to your Control Panel>System>Environment Variables>System Variables  - Select 'New'
 
       Variable name: 'GOPATH'
@@ -109,9 +109,11 @@ While not required, it is recommended [Windows Terminal](ms-windows-store://pdp?
 
 ### Optional Configurations
 
-VS Code can run Dev Containers, read about it here **LINK**
+VS Code - Devcontainers
 
-Add details***
+Visual Studio Code allows you to run a full featured development environment inside a Docker Container.  This is a supported setup and is recommended for you to explore.  To get started start here: https://code.visualstudio.com/docs/remote/containers
+
+While not in GA just yet, you can also run WSL2 in a VS Code Devcontainer.  Read Ben Coleman's blog post here: https://benc.dev/blog/devcontainers-wsl2/
 
 
 # Getting Started in Your Team
@@ -134,13 +136,13 @@ Suggested path per skill level:
 
  **Level Zero - 100:** Day 1, it is worth reviewing the Go tour with your team and make sure everyone is comfortable with the concepts. This is a great time to review with the team the topics learned and make sure there aren't any questions.  
 
-   *Next phase:* once your team has completed the review of the Go Tour, we highly recommend going through the next level of exercises, learning loops and arrays, we called this 'Ground Zero'.  We have setup 2 tasks using Exercism, it is highly recommended you start with those learning modules before moving onto the core of the hack, the Book API Challenge. The link to get started on 'Ground Zero' will be found at the bottom of this document.
+   *Next phase:* once your team has completed the review of the Go Tour, we highly recommend going through the next level of exercises, learning loops and arrays, we call this 'Entry Level Learning'.  We have setup 2 tasks using Exercism, it is highly recommended you start with those learning modules before moving onto the core of the hack, the Book API Challenge. The link to get started on 'Entry Level Learning' will be found at the bottom of this document.
 
-   *Suggested Path:  Golang tour --> Ground Zero --> Book API Challenge*
+   *Suggested Path:  Golang tour --> Entry Level Learning --> Book API Challenge*
 
-**Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API (Challenge 1).  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge. Links for both are located at the bottom of this document.
+**Level 200:** Your group can choose to warm up your skills by completing the learning tutorials on loops and arrays before proceeding to the Book API Challenge.  The learning tutorials are hosted in Exercism. We suggest that your group decides on where they would like to start  Else, you can proceed straight to the Book API Challenge. Links for both are located at the bottom of this document.
 
-   *Suggested Path:  Ground Zero (optional) --> Book API Challenge*
+   *Suggested Path:  Entry Level Review (optional) --> Book API Challenge*
 
 **Level 300 - 400:** There is an assumption that you're very familiar with the concepts in the Go tour.  You will go straight to your Auzre Auto Tag Challenge written by Gabriel Nepomuceno. You may also choose to complete the Book API path as a warmup before proceeding to the main challenge, it is comprised of 4 challenges.  The link to the hack challenge is located at the bottom.
 
@@ -155,8 +157,15 @@ This is where your team will need to decide which challenge to start with we hav
    
  [Golang Tour](https://tour.golang.org/) 
 
- Level Zero and 100 - Starting with Exercism -[ground zero](GroundZero.md)
+ Level Zero and 100 - Starting with Exercism -[Entry Level Learning](docs\EntryLevelModules.md)
 
  Start the API Challenge - [hello world](helloworld.md)
 
  Start the advanced challenge - [Azure Auto Tag Challenge](https://github.com/Nepomuceno/learn-go-azure)
+
+ Ground Zero = Entry Level Learning*** Change
+ Hack wide Team For Exercism
+
+ DevContainers for WSL2
+
+ Split up machine setup
