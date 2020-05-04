@@ -21,46 +21,61 @@ Learning loops is a key skill with learning almost any programming language.  Th
 
 2. Select 'Your Solutions' at the top.  Brown the tracks and select 'Go'.  Browse to Exercise and select 'Scrabble Score' 
 
-exercism download --exercise=scrabble-score --track=go --team=golang-hack-date
+3. Read the tasks and download the exercises into VS Code:
 
-1. Once you're logged into Exercism, go to 'Scrabble Score' in the Go track: <https://exercism.io/my/tracks/go#exercise-scrabble-score>
+        exercism download --exercise=scrabble-score --track=go --team={Input team tag here]
 
-2. Exercism will provide you a step by step walk through, as well as the ability to run the exercise locally on your machine.  We would suggest you download the exercises with their download link provided: 
+4. Read the instructions and start learning! To complete this module successfully, you will need to run the tests to see what kind of performance benchmarks your code fulfills.  **Hint:** to get started look at the 'cases_test.go' file.  This will give you a nudge as to how to start your code.
 
-        exercism download --exercise=scrabble-score --track=go
+5. Once you've completed the learning module, submit your solution:
 
-3. Start learning!
+        exercism submit scrabble_score.go {final link??}
 
-4. Once you've completed the learning module, submit your solution:
+6. Once you've submitted your solution, grab a coach to review.  
 
-        exercism submit scrabble_score.go
+### Learning References
 
-5. Exercism will find a mentor to give you feedback on your solution, this could take 15 minutes, or days (depends on availability). Your solution may require a few touch ups, that's okay :)  While we're working in a hack, we realize a solution may not come as quickly as we would like.  Copy your solution and submit to a coach as well as the Exercism mentoring system.  You are welcome to submit a solution as a team, a pair, or as an individual.  
+We've included some learning references to help assist learning the topics in this task
 
-    a. Submitting to a coach: please bear with us as this is trial and error, send a link of your solution to a coach with the names of the hackers who have written the code.  For those working in timezones out of BST (i.e. US, Asia, etc) there is a good chance a coach won't be online at the time.  Please send it over, we will check it when online.
+https://gobyexample.com/for
 
-6. Once you have submitted your solution, please move onto learning module 2, you do not need to wait on a response to your solution
+https://www.cyberciti.biz/faq/golang-for-loop-examples/
+
+https://yourbasic.org/golang/for-loop/
 
 ## Learning Module 2: Proverb - Learning Arrays
 
-Onto learning arrays!  Hopefully you found Learning Module 2 fun and enjoyable?
+Onto learning arrays!  Hopefully you found Learning Module 1 fun and enjoyable?
 
-Next up, we're going to focus on learning arrays, another common programming language task.  For this task we have chosen the 'Proverb' tasks.  Again, if you feel that you are comfortable with arrays, please proceed to the next task.
+Next up, we're going to focus on learning arrays, another common programming language task.  For this task we have chosen the 'Proverb' task.  Again, if you feel that you are comfortable with arrays, please proceed to the Book API Challenge.
 
+1. Open your web browser and go to the team link provided. You will be sent to the Golang Hack team page.
 
-Learning loops is a key skill with learning almost any programming language.  The exercise that we have chosen covers off loops, strings and maps.  If you are comfortable with how loops work, you can skip to learning module 2.
+2. Select 'Your Solutions' at the top.  Brown the tracks and select 'Go'.  Browse to Exercise and select 'Proverb' 
 
-1. Log into into Exercism, go to 'Proverb': <https://exercism.io/my/tracks/go#exercise-proverb>
+3. Read the tasks and download the exercises into VS Code:
 
-2. Similar to Learning Module 1, download the task:
+        exercism download --exercise=scrabble-score --track=go --team={Input team tag here]
 
-        exercism download --exercise=proverb --track=go
+4. Read the instructions and start learning! To complete this module successfully, you will need to run the tests to see what kind of performance benchmarks your code fulfills.  **Hint:** to get started look at the 'cases_test.go' file.  This will give you a nudge as to how to start your code.
 
-3. Complete the task in your teams, pair, or individually if you prefer.  Submit your code to Exercism: 
+5. Once you've completed the learning module, submit your solution:
 
-        exercism submit proverb.go
+        exercism submit scrabble_score.go {final link??}
 
-4. Please share your solution with a coach
+6. Once you've submitted your solution, grab a coach to review.  
+
+### Learning References
+
+We've included some learning references to help assist learning the topics in this task
+
+Arrays:
+https://gobyexample.com/arrays
+https://www.golangprograms.com/go-language/arrays.html
+https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7
+
+String Functions:
+https://gobyexample.com/string-functions
 
 # Challenge 1
 
