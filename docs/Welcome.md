@@ -162,10 +162,3 @@ This is where your team will need to decide which challenge to start with we hav
  Start the API Challenge - [hello world](helloworld.md)
 
  Start the advanced challenge - [Azure Auto Tag Challenge](https://github.com/Nepomuceno/learn-go-azure)
-
- Ground Zero = Entry Level Learning*** Change
- Hack wide Team For Exercism
-
- DevContainers for WSL2
-
- Split up machine setup
