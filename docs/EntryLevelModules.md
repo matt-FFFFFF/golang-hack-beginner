@@ -70,11 +70,13 @@ Next up, we're going to focus on learning arrays, another common programming lan
 We've included some learning references to help assist learning the topics in this task
 
 Arrays:
+
 https://gobyexample.com/arrays
 https://www.golangprograms.com/go-language/arrays.html
 https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7
 
 String Functions:
+
 https://gobyexample.com/string-functions
 
 # Challenge 1
