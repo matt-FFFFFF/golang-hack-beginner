@@ -109,7 +109,7 @@ While not required, it is recommended [Windows Terminal](ms-windows-store://pdp?
 
 ### Optional Configurations
 
-VS Code - Devcontainers
+ Using VS Code - Devcontainers
 
 Visual Studio Code allows you to run a full featured development environment inside a Docker Container.  This is a supported setup and is recommended for you to explore.  To get started start here: https://code.visualstudio.com/docs/remote/containers
 
